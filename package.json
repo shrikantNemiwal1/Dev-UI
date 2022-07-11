@@ -1,0 +1,22 @@
+{
+  "name": "dev-ui",
+  "version": "1.0.0",
+  "description": "A CSS Component library",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch sass/main.scss:css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shrikantNemiwal1/Dev-UI.git"
+  },
+  "author": "Shrikant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shrikantNemiwal1/Dev-UI/issues"
+  },
+  "homepage": "https://github.com/shrikantNemiwal1/Dev-UI#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
